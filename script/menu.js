@@ -6,7 +6,7 @@ let burgersContainer = document.getElementById("Burger");
 let snacksContainer = document.getElementById("Snack");
 let beveragesContainer = document.getElementById("Beverage");
 
-let API = "https://fuzzy-garb-tuna.cyclic.app/recipes";
+let API = "https://bfc-backend.onrender.com/recipes";
 let arr = [];
 async function FetchData() {
     try {
