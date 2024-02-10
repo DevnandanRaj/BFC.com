@@ -1,4 +1,4 @@
-let url = "https://fuzzy-garb-tuna.cyclic.app";
+let url = "https://bfc-backend.onrender.com";
     document.querySelector("form").addEventListener("submit", (e)=>{
         e.preventDefault();
         myFunction();
